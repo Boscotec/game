@@ -68,7 +68,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     }
 
     private void shareText() {
-        String textToShare = "Download app by Boscotec " + "https://github.com/Boscotec/game";
+        String textToShare = "Download app by Boscotec " + "https://github.com/Boscotec/game/blob/master/source/game.apk";
         String mimeType = "text/plain";
         String title = "Share "+ getApplication().getApplicationInfo().name;
 
