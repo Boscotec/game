@@ -9,7 +9,7 @@
     <string name="w">W</string>
     <string name="d">D</string>
     <string name="l">L</string>
-    <string name="value">Value: 50.90 %s</string>
+    <string name="value">Value: %s</string>
     <string name="calculate">Calculate</string>
 
     <string name="game">Game</string>
