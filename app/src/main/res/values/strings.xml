@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Game</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_search">Search</string>
+    <string name="action_share">Share</string>
+
+    <string name="home">Home</string>
+    <string name="away">Away</string>
+    <string name="w">W</string>
+    <string name="d">D</string>
+    <string name="l">L</string>
+    <string name="value">Value: 50.90 %s</string>
+    <string name="calculate">Calculate</string>
+
+    <string name="game">Game</string>
+    <string name="fg">1</string>
+    <string name="sg">2</string>
+    <string name="tg">3</string>
+    <string name="ftg">4</string>
+    <string name="flg">5</string>
+</resources>
