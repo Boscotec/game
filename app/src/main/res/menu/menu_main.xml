@@ -3,24 +3,24 @@
     xmlns:tools="http://schemas.android.com/tools"
     tools:context="com.boscotec.game.MainActivity">
     <item
-        android:id="@+id/settings"
+        android:id="@+id/predicts"
         android:orderInCategory="100"
-        android:title="@string/action_settings"
+        android:title="@string/predictz_com"
         android:icon="@android:drawable/ic_menu_info_details"
         app:showAsAction="never" />
 
     <item
-        android:id="@+id/search"
+        android:id="@+id/solution"
         android:orderInCategory="99"
-        android:title="@string/action_search"
-        android:icon="@android:drawable/ic_menu_search"
+        android:title="@string/solutiontipsster"
+        android:icon="@android:drawable/ic_menu_info_details"
         app:showAsAction="never" />
 
     <item
-        android:id="@+id/share"
+        android:id="@+id/update"
         android:orderInCategory="98"
-        android:title="@string/action_share"
-        android:icon="@android:drawable/ic_menu_share"
-        app:showAsAction="ifRoom"/>
+        android:title="@string/update"
+        android:icon="@android:drawable/stat_sys_download_done"
+        app:showAsAction="never"/>
 
 </menu>

@@ -4,8 +4,12 @@
     <string name="action_search">Search</string>
     <string name="action_share">Share</string>
 
-    <string name="home">Home</string>
-    <string name="away">Away</string>
+    <string name="predictz_com">predictz.com</string>
+    <string name="solutiontipsster">solutiontipster</string>
+    <string name="update">Update</string>
+
+    <string name="home">Home Games</string>
+    <string name="away">Away Games</string>
     <string name="w">W</string>
     <string name="d">D</string>
     <string name="l">L</string>
